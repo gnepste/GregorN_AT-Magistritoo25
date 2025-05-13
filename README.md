@@ -1,1 +1,1 @@
-# GregorN_DS-Masters2025
+# GregorN_AT-Magistritöö2025
