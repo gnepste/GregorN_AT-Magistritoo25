@@ -3,6 +3,7 @@
 
 Eksperimentaalne prototüüp, mis määrab droonifoto täpse asukoha. 
 Lahendus põhineb EXIF‑metaandmetel, Maa‑ameti WMS‑ortofotodel, eeltreenitud sügavõppe­mudelitel (ResNet‑50, DINOv2) ning konvolutiivsel koosinussarnasusel.
+NB! Koodi kirjutamisel on kasutatud OpenAI poolt loodud ChatGPT o4 abi koodi optimeerimisel ning viimistlemisel.
 
 ---
 
